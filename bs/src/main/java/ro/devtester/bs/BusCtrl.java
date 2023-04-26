@@ -1,4 +1,4 @@
-package se.ff.bs;
+package ro.devtester.bs;
 
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;

@@ -33,3 +33,7 @@ Materials:
 - Kafka - https://docs.pact.io/recipes/kafka
 - Pact to Jenkins - https://kreuzwerker.de/en/post/integrating-contract-tests-into-build-pipelines-with-pact-broker-and
 - Showcase of Contract testing - https://youtu.be/-6x6XBDf9sQ
+
+Changelog:
+- DONE - Upgrade to java 17 | Pom modules
+- TODO - Integrate a flow with Jenkins and can-i-deploy

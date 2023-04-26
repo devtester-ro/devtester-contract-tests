@@ -1,4 +1,4 @@
-package se.ff.bs;
+package ro.devtester.bs;
 
 /**
  * Created by set842 on 29/11/17.

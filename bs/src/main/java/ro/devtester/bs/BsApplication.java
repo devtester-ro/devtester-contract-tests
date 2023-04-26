@@ -1,4 +1,4 @@
-package se.ff.bs;
+package ro.devtester.bs;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

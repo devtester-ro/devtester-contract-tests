@@ -1,11 +1,9 @@
-package se.ff.bsc;
+package ro.devtester.bsc;
 
 import org.apache.http.HttpResponse;
 import org.apache.http.client.fluent.Request;
 import org.apache.http.util.EntityUtils;
 import org.json.JSONObject;
-
-import java.io.IOException;
 
 public class WhenComesTheBus
 {
